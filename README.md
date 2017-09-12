@@ -1,2 +1,5 @@
 # hello-world
-MyFirstRepository
+
+Hi, friends!
+
+I'm 25. I like programing.
